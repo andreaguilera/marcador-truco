@@ -1,8 +1,8 @@
 {
+  "urlRandomness": "vj-zfe",
   "hostType": "lan",
   "lanType": "ip",
   "dev": true,
   "minify": false,
-  "urlRandomness": "um-e4w",
   "https": false
 }
